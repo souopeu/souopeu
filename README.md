@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Pedro Costa 👋
 
-<!--
-**souopeu/souopeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvimento web · Sistemas · Automações
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINASSAU**, com formação técnica em **Informática e Administração**. Tenho conhecimentos em criação de websites, sistemas, web design e automações e busco oportunidades para aprender, colaborar e contribuir com projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 🎓 Graduação em ADS em andamento, iniciada em 2026.
+- 💻 Interesse profissional em desenvolvimento web, sistemas e suporte de TI.
+- 🛠️ Experiência com montagem e manutenção de computadores e instalação de softwares.
+- 🎨 Conhecimentos em design gráfico, edição de imagens e vídeos e tráfego pago.
+- 🤝 Experiência em atendimento ao público, organização documental e rotinas administrativas.
+- 🇧🇷 Ex-militar do Exército Brasileiro, com disciplina, responsabilidade e trabalho em equipe.
+
+## O que você encontra por aqui
+
+Estudos, exercícios e projetos que fazem parte da minha trajetória em tecnologia.
+
+## Formação
+
+| Formação | Situação |
+| --- | --- |
+| Análise e Desenvolvimento de Sistemas — UNINASSAU | Em andamento desde 2026 |
+| Técnico em Administração | Concluído em 2024 |
+| Técnico em Informática — ECIT Presidente João Goulart | Concluído em 2021 |
+
+## Vamos conversar?
+
+Estou em busca de **estágio ou oportunidades de entrada em tecnologia**, especialmente em desenvolvimento web e sistemas.
+
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/pedro-costa-099a37263/)
